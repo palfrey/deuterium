@@ -1,6 +1,7 @@
 ## What is Deuterium?
 
 [![Build Status](https://travis-ci.org/s-panferov/deuterium.svg?branch=master)](https://travis-ci.org/s-panferov/deuterium)
+[![Crates.io](https://img.shields.io/crates/v/deuterium.svg)](https://crates.io/crates/deuterium)
 
 Deuterium is a fancy SQL builder for Rust. It's designed to provide a DSL to easily build SQL queries in safe and *typed* way.
 
@@ -11,6 +12,10 @@ Like Rust itself, Deuterium is still in the **early stages of development**, so 
 [dependencies.deuterium]
 git = "https://github.com/deuterium-orm/deuterium"
 ```
+
+## Documentation
+
+See [docs.rs](https://docs.rs/deuterium/)
 
 ## Examples?
 
